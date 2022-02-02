@@ -1,0 +1,14 @@
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.csproj.AssemblyReference.cache
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.AssemblyInfoInputs.cache
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.AssemblyInfo.cs
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.csproj.CoreCompileInputs.cache
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\bin\Debug\netcoreapp3.1\Snake_Ladder.exe
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\bin\Debug\netcoreapp3.1\Snake_Ladder.deps.json
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\bin\Debug\netcoreapp3.1\Snake_Ladder.runtimeconfig.json
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\bin\Debug\netcoreapp3.1\Snake_Ladder.runtimeconfig.dev.json
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\bin\Debug\netcoreapp3.1\Snake_Ladder.dll
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\bin\Debug\netcoreapp3.1\Snake_Ladder.pdb
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.dll
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.pdb
+C:\Users\sk290\Desktop\bridgepractice\Snake_Ladder\Snake_Ladder\obj\Debug\netcoreapp3.1\Snake_Ladder.genruntimeconfig.cache

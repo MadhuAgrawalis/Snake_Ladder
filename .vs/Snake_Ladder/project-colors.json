@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97094a1e-f1a0-428c-9ce3-16ef7a38801d": {
+      "ProjectGuid": "97094a1e-f1a0-428c-9ce3-16ef7a38801d",
+      "DisplayName": "Snake_Ladder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
